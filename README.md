@@ -1,9 +1,12 @@
 # 💳 Credit Card Fraud Detection
 
-**Author**: George Kareemadom Jolly  
+**Author**: George Kareemadom Jolly
+
 **Project Type**: Supervised Classification (Imbalanced Binary Classification)  
+
 **Model Used**: XGBoost
-**Notebook link**: https://github.com/georgekjolly/Berkeley_capstone_phase_1/blob/main/capstone-phase-1_v2.ipynb
+
+**Notebook**: https://github.com/georgekjolly/Berkeley_capstone_phase_1/blob/main/capstone-phase-1_v2.ipynb
 
 ---
 
